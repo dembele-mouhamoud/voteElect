@@ -1,0 +1,7 @@
+{
+  "name": "voteElect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
